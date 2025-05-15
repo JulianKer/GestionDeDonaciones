@@ -1,0 +1,43 @@
+﻿@model DonacionViewModel;
+
+@{
+    ViewData["Title"] = "Registrar donación";
+}
+
+
+<div class="container mt-5">
+
+
+    <form class="mx-auto" style="max-width: 500px;" asp-action="Registrar" method="post">
+
+        <div class="mb-3">
+            <label class="form-label d-block">
+                Nombre del Donante
+                <input  class="form-control mt-1" asp-for="_nombreDelDonante">
+            </label>
+            <span asp-validation-for="_nombreDelDonante" class="text-danger"></span>
+        </div>
+
+
+
+        <div class="mb-3">
+            <label class="form-label d-block">
+                Motivo de la Donación
+                <input class="form-control mt-1" asp-for="_motivoDeLaDonacion">
+            </label>
+            <span asp-validation-for="_motivoDeLaDonacion" class="text-danger"></span>
+        </div>
+
+
+
+        <div class="mb-3">
+            <label class="form-label d-block">
+                Monto de Donación
+                <input class="form-control mt-1" asp-for="_montoDeDonacion">
+            </label>
+            <span asp-validation-for="_montoDeDonacion" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Registrar donación</button>
+    </form>
+</div>

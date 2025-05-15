@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Saludo";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido al sistema de Gestión de Donaciones para ONG</h1>
+
+    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+        <ul class="navbar-nav flex-grow-1">
+            <li class="nav-item mb-2">
+                <a class="nav-link bg-light border rounded px-3 py-2 text-dark" asp-area="" asp-controller="Donaciones" asp-action="Registrar">
+                    a) Registrar Donación
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link bg-light border rounded px-3 py-2 text-dark" asp-area="" asp-controller="Donaciones" asp-action="Listado">
+                    b) Listado de Donaciones
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

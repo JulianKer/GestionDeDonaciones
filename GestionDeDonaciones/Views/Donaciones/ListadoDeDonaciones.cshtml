@@ -1,0 +1,48 @@
+﻿@using GestionDeDonaciones.Entidades
+@using GestionDeDonaciones.Servicios
+@model List<Donacion>
+
+@{
+    ViewData["Title"] = "Listado donacions";
+}
+
+@if(!string.IsNullOrEmpty(TempData["msjExito"] as string))
+{
+    <div class="alert-success" style="padding: 10px; border: solid 2px green; border: 10px; text-align:center;">@TempData["msjExito"]</div>
+}
+
+<div class="container mt-4">
+    @if(Model.Count > 0)
+    {
+        <table class="table text-center">
+            <thead>
+                <tr class="bg-info text-white fw-bold">
+                    <th>Nombre del donante</th>
+                    <th>Motivo de la donación</th>
+                    <th>Monto de la donación</th>
+                    <th>Porcentaje de participación</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (Donacion donacion in Model)
+                {
+                    <tr class="bg-light text-dark">
+                        <td>@donacion._nombreDelDonante</td>
+                        <td>@donacion._motivoDeLaDonacion</td>
+                        <td>@donacion._montoDeDonacion</td>
+                        <td>% @DonacionServicio.calcularParticipacion(donacion._montoDeDonacion)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="alert alert-primary text-center fw-bold w-50 mx-auto">
+            Monto Total -->  $ @DonacionServicio.montoTotalDeLasDonaciones
+        </div>
+    }
+    else
+    {
+        <div class="alert text-center fw-bold w-50 mx-auto alert-warning">No hay donaciones :( </div>
+    }
+</div>
