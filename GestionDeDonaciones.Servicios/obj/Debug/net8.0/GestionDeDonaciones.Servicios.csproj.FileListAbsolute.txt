@@ -1,0 +1,16 @@
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\bin\Debug\net8.0\GestionDeDonaciones.Servicios.deps.json
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\bin\Debug\net8.0\GestionDeDonaciones.Servicios.dll
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\bin\Debug\net8.0\GestionDeDonaciones.Servicios.pdb
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\bin\Debug\net8.0\GestionDeDonaciones.Entidades.dll
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\bin\Debug\net8.0\GestionDeDonaciones.Entidades.pdb
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.AssemblyInfo.cs
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.sourcelink.json
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionD.30F37A14.Up2Date
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.dll
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\refint\GestionDeDonaciones.Servicios.dll
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\GestionDeDonaciones.Servicios.pdb
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Servicios\obj\Debug\net8.0\ref\GestionDeDonaciones.Servicios.dll

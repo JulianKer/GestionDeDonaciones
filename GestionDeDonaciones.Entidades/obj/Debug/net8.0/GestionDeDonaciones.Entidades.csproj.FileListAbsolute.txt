@@ -1,0 +1,12 @@
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\bin\Debug\net8.0\GestionDeDonaciones.Entidades.deps.json
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\bin\Debug\net8.0\GestionDeDonaciones.Entidades.dll
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\bin\Debug\net8.0\GestionDeDonaciones.Entidades.pdb
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\GestionDeDonaciones.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\GestionDeDonaciones.Entidades.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\GestionDeDonaciones.Entidades.AssemblyInfo.cs
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\GestionDeDonaciones.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\GestionDeDonaciones.Entidades.sourcelink.json
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\GestionDeDonaciones.Entidades.dll
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\refint\GestionDeDonaciones.Entidades.dll
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\GestionDeDonaciones.Entidades.pdb
+C:\Users\germa\source\repos\GestionDeDonaciones\GestionDeDonaciones.Entidades\obj\Debug\net8.0\ref\GestionDeDonaciones.Entidades.dll

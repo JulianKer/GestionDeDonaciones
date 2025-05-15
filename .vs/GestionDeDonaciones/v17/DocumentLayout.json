@@ -62,8 +62,7 @@
               "RelativeToolTip": "GestionDeDonaciones.Servicios\\DonacionServicio.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T23:11:21.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T23:11:21.562Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "GestionDeDonaciones.Entidades\\Donacion.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T23:09:31.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T23:09:31.319Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "GestionDeDonaciones\\Models\\DonacionViewModel.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T23:06:51.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T23:06:51.05Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "GestionDeDonaciones\\Views\\Donaciones\\RegistrarDonacion.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T22:43:46.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T22:43:46.578Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "GestionDeDonaciones\\Controllers\\DonacionesController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T22:41:35.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T22:41:35.548Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "GestionDeDonaciones\\Views\\Inicio\\Saludo.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T22:31:43.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T22:31:43.959Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "GestionDeDonaciones\\Controllers\\InicioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T22:30:47.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T22:30:47.147Z"
             }
           ]
         }
